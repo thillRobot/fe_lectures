@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introductory Concepts in Mechanics}{3}{0}{1}
+\beamer@sectionintoc {2}{Vector Geometry and Algebra}{4}{0}{2}
+\beamer@sectionintoc {3}{Force Systems}{6}{0}{3}
+\beamer@sectionintoc {4}{Equilibrium}{7}{0}{4}
+\beamer@sectionintoc {5}{Examples}{9}{0}{5}
