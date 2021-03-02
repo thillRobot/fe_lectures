@@ -2,4 +2,4 @@
 \beamer@sectionintoc {2}{Kinematics of a Particle}{4}{0}{2}
 \beamer@sectionintoc {3}{Rigid Body Kinematics}{7}{0}{3}
 \beamer@sectionintoc {4}{Newtons Laws of Motion}{8}{0}{4}
-\beamer@sectionintoc {5}{Examples}{11}{0}{5}
+\beamer@sectionintoc {5}{Examples}{10}{0}{5}

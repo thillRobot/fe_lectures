@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,87 +980,181 @@ thkerncmss.
 <piston_cropped.png, id=159, 197.98969pt x 169.38281pt>
 File: piston_cropped.png Graphic file (type png)
 <use piston_cropped.png>
-Package pdftex.def Info: piston_cropped.png  used on input line 229.
+Package pdftex.def Info: piston_cropped.png  used on input line 234.
 (pdftex.def)             Requested size: 158.39195pt x 135.50642pt.
-<example_8_8b.png, id=160, 325.96782pt x 311.66437pt>
-File: example_8_8b.png Graphic file (type png)
-<use example_8_8b.png>
-Package pdftex.def Info: example_8_8b.png  used on input line 229.
-(pdftex.def)             Requested size: 391.15941pt x 373.99536pt.
 
-Overfull \hbox (83.86954pt too wide) in paragraph at lines 229--229
-[][]  
- []
-
-
-Overfull \vbox (321.26735pt too high) detected at line 229
- []
-
-[10
-
- <./piston_cropped.png> <./example_8_8b.png (PNG copy)>]
-<lecture1_fig1.png, id=173, 913.4125pt x 992.70876pt>
-File: lecture1_fig1.png Graphic file (type png)
-<use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 251.
-(pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
-
-Overfull \hbox (171.05423pt too wide) in paragraph at lines 251--251
+Overfull \hbox (9.74702pt too wide) in paragraph at lines 234--234
 [][] 
  []
 
 
-Overfull \vbox (248.32436pt too high) detected at line 251
+Overfull \vbox (36.3775pt too high) detected at line 234
+ []
+
+[10
+
+ <./piston_cropped.png>]
+File: piston_cropped.png Graphic file (type png)
+<use piston_cropped.png>
+Package pdftex.def Info: piston_cropped.png  used on input line 245.
+(pdftex.def)             Requested size: 158.39195pt x 135.50642pt.
+
+Overfull \vbox (19.51498pt too high) detected at line 245
  []
 
 [11
 
- <./lecture1_fig1.png>]
-File: lecture1_fig1.png Graphic file (type png)
-<use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 263.
-(pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
+]
+File: piston_cropped.png Graphic file (type png)
+<use piston_cropped.png>
+Package pdftex.def Info: piston_cropped.png  used on input line 258.
+(pdftex.def)             Requested size: 158.39195pt x 135.50642pt.
 
-Overfull \hbox (12.40929pt too wide) in paragraph at lines 263--263
-[][]  
+Overfull \hbox (9.74702pt too wide) in paragraph at lines 258--258
+[][] 
  []
 
 
-Overfull \vbox (231.46184pt too high) detected at line 263
+Overfull \vbox (36.3775pt too high) detected at line 258
  []
 
 [12
 
 ]
-File: lecture1_fig1.png Graphic file (type png)
-<use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 275.
-(pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
+File: piston_cropped.png Graphic file (type png)
+<use piston_cropped.png>
+Package pdftex.def Info: piston_cropped.png  used on input line 269.
+(pdftex.def)             Requested size: 158.39195pt x 135.50642pt.
 
-Overfull \hbox (12.40929pt too wide) in paragraph at lines 275--275
-[][]  
- []
-
-
-Overfull \vbox (231.46184pt too high) detected at line 275
+Overfull \vbox (19.51498pt too high) detected at line 269
  []
 
 [13
 
 ]
-<lecture1_fig2.png, id=208, 187.45032pt x 128.73094pt>
-File: lecture1_fig2.png Graphic file (type png)
-<use lecture1_fig2.png>
-Package pdftex.def Info: lecture1_fig2.png  used on input line 290.
-(pdftex.def)             Requested size: 74.97879pt x 51.49146pt.
- [14
+<example_8_10b_croppedA.png, id=205, 204.765pt x 182.18062pt>
+File: example_8_10b_croppedA.png Graphic file (type png)
+<use example_8_10b_croppedA.png>
+Package pdftex.def Info: example_8_10b_croppedA.png  used on input line 285.
+(pdftex.def)             Requested size: 163.8122pt x 145.74467pt.
 
- <./lecture1_fig2.png (PNG copy)>]
-File: lecture1_fig2.png Graphic file (type png)
-<use lecture1_fig2.png>
-Package pdftex.def Info: lecture1_fig2.png  used on input line 302.
-(pdftex.def)             Requested size: 74.97879pt x 51.49146pt.
- [15
+Overfull \hbox (15.16727pt too wide) in paragraph at lines 285--285
+[][] 
+ []
+
+
+Overfull \vbox (46.61575pt too high) detected at line 285
+ []
+
+[14
+
+ <./example_8_10b_croppedA.png>]
+File: example_8_10b_croppedA.png Graphic file (type png)
+<use example_8_10b_croppedA.png>
+Package pdftex.def Info: example_8_10b_croppedA.png  used on input line 298.
+(pdftex.def)             Requested size: 163.8122pt x 145.74467pt.
+
+Overfull \vbox (29.14491pt too high) detected at line 298
+ []
+
+[15
+
+]
+<example_8_8.png, id=229, 316.18124pt x 125.71968pt>
+File: example_8_8.png Graphic file (type png)
+<use example_8_8.png>
+Package pdftex.def Info: example_8_8.png  used on input line 308.
+(pdftex.def)             Requested size: 316.18047pt x 125.71936pt.
+
+Overfull \hbox (8.8906pt too wide) in paragraph at lines 308--308
+[][]  
+ []
+
+
+Overfull \vbox (7.89043pt too high) detected at line 308
+ []
+
+[16
+
+ <./example_8_8.png (PNG copy)>]
+<example_8_8b_cropped.png, id=241, 324.46219pt x 136.25906pt>
+File: example_8_8b_cropped.png Graphic file (type png)
+<use example_8_8b_cropped.png>
+Package pdftex.def Info: example_8_8b_cropped.png  used on input line 319.
+(pdftex.def)             Requested size: 324.46138pt x 136.25871pt.
+
+Overfull \hbox (17.17151pt too wide) in paragraph at lines 319--319
+[][]  
+ []
+
+
+Overfull \vbox (18.42978pt too high) detected at line 319
+ []
+
+[17
+
+ <./example_8_8b_cropped.png>]
+<example_8_9.png, id=254, 319.1925pt x 150.5625pt>
+File: example_8_9.png Graphic file (type png)
+<use example_8_9.png>
+Package pdftex.def Info: example_8_9.png  used on input line 330.
+(pdftex.def)             Requested size: 319.19171pt x 150.56212pt.
+
+Overfull \hbox (11.90184pt too wide) in paragraph at lines 330--330
+[][]  
+ []
+
+
+Overfull \vbox (32.73318pt too high) detected at line 330
+ []
+
+[18
+
+ <./example_8_9.png (PNG copy)>]
+<example_8_10.png, id=266, 323.70938pt x 94.85437pt>
+File: example_8_10.png Graphic file (type png)
+<use example_8_10.png>
+Package pdftex.def Info: example_8_10.png  used on input line 341.
+(pdftex.def)             Requested size: 323.70859pt x 94.85413pt.
+
+Overfull \hbox (16.41872pt too wide) in paragraph at lines 341--341
+[][]  
+ []
+
+[19
+
+ <./example_8_10.png (PNG copy)>]
+<example_8_10b_cropped.png, id=280, 312.41719pt x 195.73125pt>
+File: example_8_10b_cropped.png Graphic file (type png)
+<use example_8_10b_cropped.png>
+Package pdftex.def Info: example_8_10b_cropped.png  used on input line 352.
+(pdftex.def)             Requested size: 312.41641pt x 195.73076pt.
+
+Overfull \hbox (5.12654pt too wide) in paragraph at lines 352--352
+[][]  
+ []
+
+
+Overfull \vbox (77.90182pt too high) detected at line 352
+ []
+
+[20
+
+ <./example_8_10b_cropped.png>]
+File: example_8_10b_cropped.png Graphic file (type png)
+<use example_8_10b_cropped.png>
+Package pdftex.def Info: example_8_10b_cropped.png  used on input line 363.
+(pdftex.def)             Requested size: 312.41641pt x 195.73076pt.
+
+Overfull \hbox (5.12654pt too wide) in paragraph at lines 363--363
+[][]  
+ []
+
+
+Overfull \vbox (77.90182pt too high) detected at line 363
+ []
+
+[21
 
 ]
 \tf@nav=\write6
@@ -1072,22 +1166,22 @@ Package pdftex.def Info: lecture1_fig2.png  used on input line 302.
 \tf@snm=\write8
 \openout8 = `dynamics_lecture1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
  (./dynamics_lecture1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 366.
 Package rerunfilecheck Info: File `dynamics_lecture1.out' has not changed.
 (rerunfilecheck)             Checksum: A28B4EC597B7EDE3C17153EEA9B5068E;274.
  ) 
 Here is how much of TeX's memory you used:
- 18645 strings out of 492982
- 347820 string characters out of 6134897
- 452651 words of memory out of 5000000
- 21746 multiletter control sequences out of 15000+600000
- 17761 words of font info for 58 fonts, out of 8000000 for 9000
+ 18685 strings out of 492982
+ 347870 string characters out of 6134897
+ 452862 words of memory out of 5000000
+ 21763 multiletter control sequences out of 15000+600000
+ 26170 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,57p,813b,650s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,19n,57p,813b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
@@ -1097,10 +1191,10 @@ t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
-Output written on dynamics_lecture1.pdf (15 pages, 636998 bytes).
+Output written on dynamics_lecture1.pdf (21 pages, 689663 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 221 compressed objects within 3 object streams
- 36 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 286 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
