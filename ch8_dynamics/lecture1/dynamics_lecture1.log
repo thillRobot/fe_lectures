@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -940,25 +940,25 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 <spotmini_cropped.png, id=62, 572.1375pt x 482.80376pt>
 File: spotmini_cropped.png Graphic file (type png)
 <use spotmini_cropped.png>
-Package pdftex.def Info: spotmini_cropped.png  used on input line 112.
-(pdftex.def)             Requested size: 143.03401pt x 120.70064pt.
+Package pdftex.def Info: spotmini_cropped.png  used on input line 114.
+(pdftex.def)             Requested size: 128.7341pt x 108.63351pt.
  [2
 
  <./spotmini_cropped.png>] [3
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 147.
+LaTeX Font Info:    Try loading font information for U+msa on input line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 147.
+LaTeX Font Info:    Try loading font information for U+msb on input line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 147.
+line 149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -977,40 +977,40 @@ thkerncmss.
 ] [9
 
 ]
-<example_8_8.png, id=158, 316.18124pt x 125.71968pt>
-File: example_8_8.png Graphic file (type png)
-<use example_8_8.png>
-Package pdftex.def Info: example_8_8.png  used on input line 227.
-(pdftex.def)             Requested size: 252.94533pt x 100.57587pt.
-<example_8_8b.png, id=159, 325.96782pt x 311.66437pt>
+<piston_cropped.png, id=159, 197.98969pt x 169.38281pt>
+File: piston_cropped.png Graphic file (type png)
+<use piston_cropped.png>
+Package pdftex.def Info: piston_cropped.png  used on input line 229.
+(pdftex.def)             Requested size: 158.39195pt x 135.50642pt.
+<example_8_8b.png, id=160, 325.96782pt x 311.66437pt>
 File: example_8_8b.png Graphic file (type png)
 <use example_8_8b.png>
-Package pdftex.def Info: example_8_8b.png  used on input line 227.
+Package pdftex.def Info: example_8_8b.png  used on input line 229.
 (pdftex.def)             Requested size: 391.15941pt x 373.99536pt.
 
-Overfull \hbox (83.86954pt too wide) in paragraph at lines 227--227
+Overfull \hbox (83.86954pt too wide) in paragraph at lines 229--229
 [][]  
  []
 
 
-Overfull \vbox (286.33679pt too high) detected at line 227
+Overfull \vbox (321.26735pt too high) detected at line 229
  []
 
 [10
 
- <./example_8_8.png (PNG copy)> <./example_8_8b.png (PNG copy)>]
-<lecture1_fig1.png, id=171, 913.4125pt x 992.70876pt>
+ <./piston_cropped.png> <./example_8_8b.png (PNG copy)>]
+<lecture1_fig1.png, id=173, 913.4125pt x 992.70876pt>
 File: lecture1_fig1.png Graphic file (type png)
 <use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 249.
+Package pdftex.def Info: lecture1_fig1.png  used on input line 251.
 (pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
 
-Overfull \hbox (171.05423pt too wide) in paragraph at lines 249--249
+Overfull \hbox (171.05423pt too wide) in paragraph at lines 251--251
 [][] 
  []
 
 
-Overfull \vbox (248.32436pt too high) detected at line 249
+Overfull \vbox (248.32436pt too high) detected at line 251
  []
 
 [11
@@ -1018,15 +1018,15 @@ Overfull \vbox (248.32436pt too high) detected at line 249
  <./lecture1_fig1.png>]
 File: lecture1_fig1.png Graphic file (type png)
 <use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 261.
+Package pdftex.def Info: lecture1_fig1.png  used on input line 263.
 (pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
 
-Overfull \hbox (12.40929pt too wide) in paragraph at lines 261--261
+Overfull \hbox (12.40929pt too wide) in paragraph at lines 263--263
 [][]  
  []
 
 
-Overfull \vbox (231.46184pt too high) detected at line 261
+Overfull \vbox (231.46184pt too high) detected at line 263
  []
 
 [12
@@ -1034,31 +1034,31 @@ Overfull \vbox (231.46184pt too high) detected at line 261
 ]
 File: lecture1_fig1.png Graphic file (type png)
 <use lecture1_fig1.png>
-Package pdftex.def Info: lecture1_fig1.png  used on input line 273.
+Package pdftex.def Info: lecture1_fig1.png  used on input line 275.
 (pdftex.def)             Requested size: 319.69916pt x 347.45328pt.
 
-Overfull \hbox (12.40929pt too wide) in paragraph at lines 273--273
+Overfull \hbox (12.40929pt too wide) in paragraph at lines 275--275
 [][]  
  []
 
 
-Overfull \vbox (231.46184pt too high) detected at line 273
+Overfull \vbox (231.46184pt too high) detected at line 275
  []
 
 [13
 
 ]
-<lecture1_fig2.png, id=206, 187.45032pt x 128.73094pt>
+<lecture1_fig2.png, id=208, 187.45032pt x 128.73094pt>
 File: lecture1_fig2.png Graphic file (type png)
 <use lecture1_fig2.png>
-Package pdftex.def Info: lecture1_fig2.png  used on input line 288.
+Package pdftex.def Info: lecture1_fig2.png  used on input line 290.
 (pdftex.def)             Requested size: 74.97879pt x 51.49146pt.
  [14
 
  <./lecture1_fig2.png (PNG copy)>]
 File: lecture1_fig2.png Graphic file (type png)
 <use lecture1_fig2.png>
-Package pdftex.def Info: lecture1_fig2.png  used on input line 300.
+Package pdftex.def Info: lecture1_fig2.png  used on input line 302.
 (pdftex.def)             Requested size: 74.97879pt x 51.49146pt.
  [15
 
@@ -1072,18 +1072,18 @@ Package pdftex.def Info: lecture1_fig2.png  used on input line 300.
 \tf@snm=\write8
 \openout8 = `dynamics_lecture1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
  (./dynamics_lecture1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `dynamics_lecture1.out' has not changed.
-(rerunfilecheck)             Checksum: 12B0427895956810B553F52BF6B44868;274.
+(rerunfilecheck)             Checksum: A28B4EC597B7EDE3C17153EEA9B5068E;274.
  ) 
 Here is how much of TeX's memory you used:
  18645 strings out of 492982
- 347805 string characters out of 6134897
- 452552 words of memory out of 5000000
+ 347820 string characters out of 6134897
+ 452651 words of memory out of 5000000
  21746 multiletter control sequences out of 15000+600000
  17761 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1097,10 +1097,10 @@ t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
-Output written on dynamics_lecture1.pdf (15 pages, 653842 bytes).
+Output written on dynamics_lecture1.pdf (15 pages, 636998 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
+ 271 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
  36 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
